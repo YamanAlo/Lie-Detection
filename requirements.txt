@@ -1,0 +1,13 @@
+torch
+torchvision
+facenet-pytorch
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+typing-extensions
+pillow
+mediapipe
